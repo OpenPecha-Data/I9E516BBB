@@ -1,0 +1,18 @@
+id: I9E516BBB
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:55.148313
+last_modified: 2023-01-04 11:30:55.148324
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  5A64:
+    title: Prayer for the Long Life of Soktsé Rinpoche
+    base_file: 5A64.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
